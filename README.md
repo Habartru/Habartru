@@ -1,17 +1,19 @@
 # Hi, I’m Habartru
 
-Engineer: Python (OCR/Computer Vision), TypeScript (Vite/React), MLOps/Docker.
+AI Engineer building agentic systems and LLM-powered products. I design and ship practical automations, parsers, and MVPs using both local and cloud LLMs.
 
-- OCR/Document AI: document parsing/layouts, pipelines for Windows/Linux and Docker.
-- Web tools: Vite + TypeScript/React, external API integrations.
-- Quality: CI/CD, linting/typing, tests, reproducible environments.
+- AI agents: tool-use, function calling, multi-step planners, evaluators, guardrails.
+- LLMs: OpenAI / Azure OpenAI / Anthropic / Google, plus local (Ollama, LM Studio, llama.cpp).
+- Data & RAG: embeddings, vector DBs (FAISS, Qdrant), chunking, retrieval, evaluation.
+- Backend & orchestration: Python/TypeScript, FastAPI, LangChain/LangGraph, queues, webhooks.
+- Infra & quality: Docker, CI/CD (GitHub Actions), typing/linting/tests, observability.
 
 ## Featured projects
 - SOCR — end-to-end OCR pipeline (Windows/Linux, Docker, CUDA, Tesseract/TorchOCR).
 - searx — modern frontend (Vite + TypeScript + React) for SearXNG with AI prompts.
 
 ## Tech stack
-Python, PyTorch, Tesseract, OpenCV, CUDA, Docker, TypeScript, React, Vite, GitHub Actions
+Python, TypeScript, FastAPI, LangChain/LangGraph, OpenAI/Azure/Anthropic/Gemini, Ollama, Docker, GitHub Actions
 
 ## Stats & activity
 ![Profile views](https://komarev.com/ghpvc/?username=Habartru&color=0e75b6)
